@@ -13,7 +13,7 @@ In this repository, you'll find a collection of my projects spanning machine lea
 ## Get in Touch
 Interested in collaborating or learning more about my work? Feel free to reach out to me:
 - Email: [muhammad.hamza@example.com](mailto:muhammadhamza1487@gmail.com)
-- LinkedIn: [Muhammad Hamza](https://www.linkedin.com/in/muhammad-hamza-ml/)
+- LinkedIn: [Muhammad Hamza](https://www.linkedin.com/in/muhammad-hamza--ml/)
 
 ## Acknowledgments
 I would like to express my gratitude to all the clients and collaborators who have entrusted me with their projects. Your support and feedback have been invaluable in shaping my skills and driving my passion for development.
